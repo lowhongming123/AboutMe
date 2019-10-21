@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Hong Ming</string>
+    <string name="my_pic">My Profile Picture</string>
+    <string name="my_profile_description">
+        DOB :1/1/2020
+        \n
+        \n
+        \n
+        \n Address: 123, Jalan Pasar, Taman Hijau, 83000 Batu Pahat, Johor
+        \n
+        \n
+        \n
+        \n Hobbies: Badminton, Play Computer Games
+        \n
+    </string>
+</resources>
